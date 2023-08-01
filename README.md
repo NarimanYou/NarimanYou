@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Nariman</h1>
 <h3 align="center">A passionate Data Analyst based in Atlanta, GA</h3>
 
-- 🌱 I’m currently learning **Data Pipelines**
+- 🌱 I’m currently learning **Data Pipelines + bunch of other Stuffs**
 
-- 📫 How to reach me **nariman.arc@gmail.com**
+- 📫 How to reach me **nariman.yousef@utexas.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
