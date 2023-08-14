@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nariman</h1>
 <h3 align="center">A passionate Data Analyst based in Atlanta, GA</h3>
 
-- 🌱 I’m currently learning **Data Pipelines + bunch of other Stuffs**
+- 🌱 I’m currently learning **Data Pipelines + Machine Learning**
 
 - 📫 How to reach me **nariman.yousef@utexas.edu**
 
