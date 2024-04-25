@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nariman</h1>
 <h3 align="center"> </h3>
 
-- 🌱 I’m currently learning **Data Pipelines + Machine Learning**
+- 🌱 I’m currently learning **Cloud Platforms + ML**
 
 - 📫 How to reach me **nariman.yousef@utexas.edu**
 
