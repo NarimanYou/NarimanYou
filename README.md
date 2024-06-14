@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 </h1>
 <h3 align="center"> </h3>
 
-- 🌱 I’m currently learning **Cloud Platforms + ML**
+- 🌱 I’m currently working on **Cloud Platforms infrastructure and LLM**
 
 - 📫 How to reach me **nariman.yousef@utexas.edu**
 
